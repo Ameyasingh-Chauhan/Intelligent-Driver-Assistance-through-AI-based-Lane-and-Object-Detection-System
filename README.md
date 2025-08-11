@@ -49,14 +49,12 @@ To run this project locally, follow these steps:
 
 ### Installation
 Install the required packages:
+```bash
 pip install -r requirements.txt
-
+```
 ### Usage
 To start the detection system, run the script from your command line:
-
+```bash
 python app.py
+```
 Make sure to replace app.py with the actual path to the Python script if not running from the script's directory.
-"# Intelligent-Driver-Assistance-through-AI-based-Lane-and-Object-Detection-System" 
-"# Intelligent-Driver-Assistance-through-AI-based-Lane-and-Object-Detection-System" 
-"# Intelligent-Driver-Assistance-through-AI-based-Lane-and-Object-Detection-System" 
-"# Intelligent-Driver-Assistance-through-AI-based-Lane-and-Object-Detection-System" 
